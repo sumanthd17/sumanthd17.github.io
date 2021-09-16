@@ -30,4 +30,4 @@ I received a Masters degree from [Columbia University](https://www.cs.columbia.e
 <!-- Prior to my PhD, I obtained a Masters degree from Columbia University, working with Owen Rambow and Michael Collins.
 I received my bachelors degree in Computer Science and Engineering from National Institute of Technology, Calicut, India. -->
 
-<a class="btn btn-sm btn-green">Update</a> I will be starting as an Assistant Professor in the [USC Viterbi Department of CS](https://www.cs.usc.edu/) in Fall 2022!
+<a class="btn btn-sm btn-green">Update</a> I will be starting as the Gabilan Assistant Professor in the [USC Viterbi Department of CS](https://www.cs.usc.edu/) in Fall 2022!  I am actively looking for PhD students, please consider applying!
