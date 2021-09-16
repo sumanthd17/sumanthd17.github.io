@@ -332,7 +332,7 @@ footer.sticky-bottom {
           border: 1px solid var(--global-theme-color);
         }
       }
-      .abbr2 {
+      .code {
         height: 2rem;
         margin-bottom: 0.5rem;
         abbr {
@@ -367,10 +367,10 @@ footer.sticky-bottom {
       .links {
         a.btn {
           color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
+          border: 0.25px solid var(--global-text-color);
           box-shadow: 2px 2px var(--grey-color-light);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 0.05rem;
+          padding-right: 0.05rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           &:hover {
@@ -433,3 +433,4 @@ html.transition *:after {
 
 .btn-gray{background-color: $grey-color-light; border: none}
 .btn-green{background-color: $green-color-dark;}
+.btn-bright-green{background-color: $green-color-bright;}

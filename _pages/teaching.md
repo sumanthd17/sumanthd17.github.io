@@ -71,11 +71,22 @@ tr:nth-child(even) {
     <th><b>Affiliation</b></th>
     <th><b>Time</b></th>
   </tr>
+<!-- https://phoenix.yizimg.com/ayush-pancholy -->
   <tr>
+    <td><a href="https://kawine.github.io/">Kawin Ethayarajh</a></td>
+    <td>PhD, Stanford</td>
+    <td>June 2021 - Present</td>
+  </tr>
+  <tr>
+    <td><a href="https://sarahwie.github.io/">Sarah Wiegreffe</a></td>
+    <td>PhD, Georgia Tech</td>
+    <td>May 2021 - Present</td>
+  </tr>
+  <!-- <tr>
     <td><a href="https://liweijiang.me/">Liwei Jiang</a></td>
     <td>PhD, UW</td>
     <td>Jan 2021 - Present</td>
-  </tr>
+  </tr> -->
   <tr>
     <td><a href="https://www.linkedin.com/in/ximing-lu-4aa9a51a0">Ximing Lu</a></td>
     <td>Undergrad, UW</td>
@@ -84,12 +95,12 @@ tr:nth-child(even) {
   <tr>
     <td><a href="https://alonjacovi.github.io/">Alon Jacovi</a></td>
     <td>PhD, Bar Ilan University</td>
-    <td>Oct 2020 - Present</td>
+    <td>Oct 2020 - May 2021</td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/jenny-liang/">Jenny Liang</a></td>
+    <td><a href="http://jennyliang.me/">Jenny Liang</a></td>
     <td>Undergrad, UW</td>
-    <td>July 2020 - Present</td>
+    <td>July 2020 - May 2021</td>
   </tr>
   <tr>
     <td><a href="https://alisawuffles.github.io/">Alisa Liu</a></td>
@@ -102,7 +113,7 @@ tr:nth-child(even) {
     <td>Summer 2020</td>
   </tr>
   <tr>
-    <td><a href="https://xuhuizhou.github.io/">Xuhui Zhou</a> (co-advised with <a href="https://homes.cs.washington.edu/~msap/index.html">Maarten Sap</a>)</td>
+    <td><a href="https://xuhuizhou.github.io/">Xuhui Zhou</a> [co-advised with <a href="https://homes.cs.washington.edu/~msap/index.html">Maarten Sap</a>]</td>
     <td>Masters, UW</td>
     <td>May 2020 - Present</td>
   </tr>
