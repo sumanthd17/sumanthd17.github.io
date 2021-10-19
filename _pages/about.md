@@ -32,3 +32,5 @@ I received a Masters degree from [Columbia University](https://www.cs.columbia.e
 
 <!-- Prior to my PhD, I obtained a Masters degree from Columbia University, working with Owen Rambow and Michael Collins.
 I received my bachelors degree in Computer Science and Engineering from National Institute of Technology, Calicut, India. -->
+
+
