@@ -8,6 +8,9 @@ nav: true
 
 ### invited talks
 
+- [Machine Learning Research Group @ Oracle](https://labs.oracle.com/pls/apex/f?p=LABS:project_details:0:7)
+    * What's in your Data? Mapping Datasets and Exploring Data Usability
+    * Oct 20, 2021
 - [NERT Seminar @ Georgetown University](http://nert.georgetown.edu/)
     * [Addressing Biases for Robust, Generalizable AI](https://youtu.be/aci8qwMufYY)
     * Feb 24, 2020
@@ -46,6 +49,6 @@ nav: true
     * Apr 27, 2018
 
 
-#### misc
+<!-- #### misc
 
-- [Research Statement](../assets/pdf/Swabha-FacultyJobSearchMaterials-2021/2020_FJM_SS_Research_Statement.pdf) for academic job search in 2020.
+- [Research Statement](../assets/pdf/Swabha-FacultyJobSearchMaterials-2021/2020_FJM_SS_Research_Statement.pdf) for academic job search in 2020. -->
