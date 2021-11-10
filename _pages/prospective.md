@@ -19,13 +19,13 @@ USC waived GRE scores ⚡ for graduate admissions in Fall 2022 and offers [fee w
 
 &nbsp;
 
-#### Should you send me an email?
+#### If you are applying to USC, should you send me an email?
 
 You do <em>not</em> have to email me, especially since I haven't officially started at USC and do not have any control over the admissions process. My recommendation to you is to apply through the regular PhD program [admissions](https://www.cs.usc.edu/ph-d-application-information/) by December 15th and USC will be in touch with you regarding the next steps. I plan to go over all applications that list me as a potential advisor. 🌾
 
 &nbsp;
 
-##### What if you are already at USC and want to send me an email?
+#### If you are already at USC and are looking for advising, should you send me an email?
 
 Please feel free to email me. However, you should know that there is not much I can officially do, just yet. It would be great to meet you and learn about your interests, though! 👋
 
