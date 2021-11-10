@@ -12,7 +12,7 @@ nav: false
 #### Am I hiring students?
 Yes, I am actively recruiting PhD students to USC in 🍁 Fall 2022! Thanks for your interest ☀️ in my research!
 [Applications](https://www.cs.usc.edu/ph-d-application-information/) are open, and the deadline to submit your application is [Dec 15th, 2021](https://days.to/until/15-december).
-Please consider <u>selecting</u> [my name](https://www.cs.usc.edu/directory/faculty/profile/?lname=Swayamdipta&fname=Swabha) <u>as a potential advisor</u>, especially if your research interests match [mine](publications/) 🌵
+Please consider <u>selecting</u> [my name](https://www.cs.usc.edu/directory/faculty/profile/?lname=Swayamdipta&fname=Swabha) <u>as a potential advisor</u>, especially if your research interests match [mine](/publications/) 🌵
 
 
 USC waived GRE scores ⚡ for graduate admissions in Fall 2022 and offers [fee waivers](https://gradadm.usc.edu/lightboxes/us-students-fee-waivers/) to select applicants.
