@@ -20,8 +20,6 @@ I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.o
 My [research interests](../assets/pdf/Swabha-FacultyJobSearchMaterials-2021/2020_FJM_SS_Research_Statement.pdf) broadly span Natural Language Processing and Machine Learning.
 I am primarily interested in the [estimation]((https://arxiv.org/abs/2009.10795)) of [dataset quality](https://arxiv.org/2110.08420), and the [discovery]((https://arxiv.org/abs/2103.01378)) and [mitigation](https://arxiv.org/abs/2002.04108) of undesirable [biases](https://arxiv.org/abs/1803.02324), including [social biases](https://arxiv.org/abs/2102.00086).
 
-<!-- *Good biases*, such as [structural inductive biases](https://www.aclweb.org/anthology/D18-1412) help language understanding - check out my [PhD thesis](/assets/pdf/swabha_thesis.pdf) on these. -->
-<!-- But biases can be *undesirable*, e.g. [spurious correlations](https://arxiv.org/abs/2002.04108) commonly found in crowd-sourced, large-scale datasets due to [annotation artifacts](https://arxiv.org/abs/1803.02324), or social prejudices of human annotators and task designers, which are [difficult to rid](https://arxiv.org/abs/2102.00086)! -->
 
 <hr>
 ##### 🌴 Update
@@ -33,7 +31,7 @@ I am <span class="font-weight-bold">[actively recruiting PhD students](/prospect
 
 <hr>
 
-##### 🕰️ Previously...
+##### Previously...
 I obtained my [PhD](/assets/pdf/swabha_thesis.pdf) from [Carnegie Mellon University]((https://www.lti.cs.cmu.edu/people/18088/swabha-swayamdipta)), where I was advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
 During most of my PhD I was a visiting student at the [University of Washington](https://www.cs.washington.edu/) in Seattle.
 I received a Masters degree from [Columbia University](https://www.cs.columbia.edu/), and a Bachelors Degree in CSE from [NIT Calicut](http://www.nitc.ac.in/) 🥥

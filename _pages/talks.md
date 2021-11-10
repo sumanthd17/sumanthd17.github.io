@@ -48,7 +48,4 @@ nav: true
     * Syntactic Scaffolds for Semantic Structures
     * Apr 27, 2018
 
-
-<!-- #### misc
-
-- [Research Statement](../assets/pdf/Swabha-FacultyJobSearchMaterials-2021/2020_FJM_SS_Research_Statement.pdf) for academic job search in 2020. -->
+A brief [biosketch](/bio/) for invited talks.
