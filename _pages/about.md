@@ -31,8 +31,8 @@ I am <span class="font-weight-bold">[actively recruiting PhD students](/prospect
 <hr>
 
 ##### Previously...
-I obtained my [PhD](/assets/pdf/swabha_thesis.pdf) from [Carnegie Mellon University](https://www.lti.cs.cmu.edu/people/18088/swabha-swayamdipta), where I was advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
-During most of my PhD I was a visiting student at the 🏔️ [University of Washington](https://www.cs.washington.edu/).
+I obtained my [PhD](/assets/pdf/swabha_thesis.pdf) from 🌉 [Carnegie Mellon University](https://www.lti.cs.cmu.edu/people/18088/swabha-swayamdipta), where I was advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
+During most of my PhD I was a visiting student at the 🌲 [University of Washington](https://www.cs.washington.edu/).
 I hold a Masters degree from 🗽 [Columbia University](https://www.cs.columbia.edu/), and a Bachelors Degree from 🥥 [NIT Calicut](https://minerva.nitc.ac.in/).
 
 <!-- Prior to my PhD, I obtained a Masters degree from Columbia University, working with Owen Rambow and Michael Collins.
