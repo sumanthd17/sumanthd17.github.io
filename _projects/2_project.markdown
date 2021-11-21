@@ -15,8 +15,9 @@ importance: 2
     Four sample biased datasets as input to AFLite (top). Blue and orange indicate two different classes. Only the original two dimensions are shown, not the bias features. For the dataset on the left, with the highest separation, we flip some labels at random, so even an RBF kernel cannot achieve perfect performance. AFLite makes the data more challenging for the models (bottom).
 </div>
 
+A detailed investigation into an algorithm which adversarially filters dataset biases, which are responsible for demonstration of human-level performance on language and vision benchmarks, while this performance degrades considerably on adversarial or out-of-distribution samples. AFLite offers a means to mitigate the prevalent overestimation of machine performance. It has been applied to [filtering social biases](https://arxiv.org/abs/2102.00086), and has been [replicated on multiple benchmarks using various models](https://jasonphang.com/files/advpaper.pdf).
 
-Cite our paper:
+[Our paper](http://proceedings.mlr.press/v119/bras20a/bras20a.pdf) was presented at ICML 2020.
 ```bib
 @inproceedings{Bras2020AdversarialFO,
   title={Adversarial Filters of Dataset Biases},

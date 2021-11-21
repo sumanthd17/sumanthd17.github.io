@@ -15,9 +15,11 @@ importance: 1
     SNLI data map with respect to a RoBERTa model.
 </div>
 
+An automatic approach to study different regions in a dataset, as a side-effect of training a model.
+Data maps provide point-wise estimates for individual data instances, based on the ease of a model to learn them.
+
 Check out Elior Cohen's [wonderful blogpost](https://towardsdatascience.com/data-maps-datasets-can-be-distilled-too-1991c3c260d6) about [our paper](https://arxiv.org/abs/2009.10795).
 
-Cite our paper:
 ```bib
 @inproceedings{swayamdipta2020dataset,
       title={Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics},

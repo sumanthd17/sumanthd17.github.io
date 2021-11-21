@@ -15,8 +15,10 @@ importance: 3
     Model architecture for jointly training syntax and semantics.
 </div>
 
+Syntactic scaffolds avoid expensive syntactic processing at runtime, only making use of a treebank during training, through a multitask objective. We improve over strong baselines on PropBank semantics, frame semantics, and coreference resolution, achieving competitive performance on all three tasks.
 
-Cite our paper:
+
+[Our paper](https://aclanthology.org/D18-1412/) was presented at EMNLP 2018:
 ```bib
 @inproceedings{Swayamdipta2018SyntacticSF,
   title={Syntactic Scaffolds for Semantic Structures},
