@@ -3,7 +3,7 @@ layout: page
 title: annotation artifacts
 description: NLI models might not be making the right decisions for the right reasons.
 img: /assets/img/artifacts0.png
-importance: 3
+importance: 5
 ---
 
 
@@ -18,7 +18,7 @@ importance: 3
 
 We show that, in a significant portion of Natural Language Inference data, the annotation protocol leaves clues that make it possible to identify the label by looking only at the hypothesis, without observing the premise. Specifically, we show that a simple text categorization model can correctly classify the hypothesis alone in about 67% of SNLI (Bowman et. al, 2015) and 53% of MultiNLI (Williams et. al, 2017).
 
-[Suchin Gururangan](https://suchin.io/) and I contributed equally to [our paper](https://aclanthology.org/N18-2017/) presented at NAACL 2018.
+[Our paper](https://aclanthology.org/N18-2017/) presented at NAACL 2018:
 ```bib
 @inproceedings{gururangan-etal-2018-annotation,
     title = "Annotation Artifacts in Natural Language Inference Data",

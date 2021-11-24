@@ -3,7 +3,7 @@ layout: page
 title: Syntactic Scaffolds
 description: Use a small amount to syntax to do better on semantics.
 img: /assets/img/scaffold.png
-importance: 3
+importance: 4
 ---
 
 <div class="row">
