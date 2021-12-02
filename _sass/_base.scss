@@ -328,28 +328,20 @@ footer.sticky-bottom {
           }
         }
         .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
+          color: wheat !important;
         }
-      }
-      .codeblock {
-        height: 2rem;
-        margin-bottom: 0.5rem;
-        abbr {
-          display: inline-block;
-          background-color: var(--gray-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+        .repo {
+          background-color: #87e33b;
+
+        }
+        .url {
+          background-color: white;
           a {
-            color: white;
+            color: green;
             &:hover {
               text-decoration: none;
             }
           }
-        }
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
         }
       }
       .title {
@@ -397,6 +389,7 @@ footer.sticky-bottom {
         p {
           line-height: 1.4em;
           margin: 10px;
+          box-shadow: 2px 2px var(--grey-color-light);
         }
         pre {
           font-size: 1em;
@@ -413,10 +406,12 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
       }
       div.abstract.hidden {
-        border: dashed 1px white;
+        border: solid 1px white;
+        box-shadow: 2px 2px var(--grey-color-light);
       }
       div.abstract.hidden.open {
-        border-color: $grey-color;
+        border-color: var(--global-theme-color);
+        box-shadow: 2px 2px var(--grey-color-light);
       }
     }
   }
@@ -436,5 +431,8 @@ html.transition *:after {
 }
 
 .btn-gray{background-color: $grey-color-light; border: none}
-.btn-green{background-color: $green-color-dark;}
+.btn-green{color: white;
+           background-color: var(--global-theme-color);
+           margin: 1px;
+          }
 .btn-bright-green{background-color: $green-color-bright;}
