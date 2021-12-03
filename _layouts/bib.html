@@ -25,7 +25,7 @@
         {% for author in entry.author_array %}
           {% if forloop.length == 1 %}
             {% if author.last == site.scholar.last_name %}
-              <em>{{author.first}} {{author.last}}</em>
+              <span class="font-weight-bold">{{author.first}} {{author.last}}</span>
             {% else %}
               {{author.first}} {{author.last}}
             {% endif %}
@@ -42,7 +42,7 @@
               {% endif %}
             {% else %}
               {% if author.last == site.scholar.last_name %}
-                and <em>{{author.first}} {{author.last}}</em>
+                and <span style="color:#009f06">{{author.first}} {{author.last}}</span>
               {% else %}
                 {% if site.data.coauthors[author.last] %}
                   and <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.first}} {{author.last}}</a>
@@ -71,18 +71,44 @@
     {% if entry.abstract %}
       <a class="abstract badge" role="button"><span style="color:#00ab37">Abstract</span></a>
     {% endif %}
-    {% if entry.arxiv %}
-      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">arXiv</a>
+    {% if entry.code %}
+      <abbr class="badge repo"><a href="{{ entry.code }}" target="_blank">Code</a></abbr>
     {% endif %}
     {% comment %} {% if entry.url %}
       <abbr class="badge url"><a href="{{ entry.url }}" target="_blank">URL</a></abbr>
     {% endif %} {% endcomment %}
+    {% if entry.poster %}
+      {% if entry.poster contains '://' %}
+      <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">Poster</a>
+      {% else %}
+      <abbr class="badge pdfs"><a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" >Poster</a></abbr>
+      {% endif %}
+    {% endif %}
+    {% if entry.slides %}
+      {% if entry.slides contains '://' %}
+      <abbr class="badge pdfs"><a href="{{ entry.slides }}" target="_blank">Slides</a></abbr>
+      {% else %}
+      <abbr class="badge pdfs"><a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" >Slides</a></abbr>
+      {% endif %}
+    {% endif %}
+    {% if entry.blog %}
+    <abbr class="badge blog"><a href="{{ entry.blog | prepend: '/projects/' | relative_url }}" >Blog</a></abbr>
+    {% endif %}
+    {% if entry.prize %}
+      <abbr class="badge award">{{ entry.prize }}</abbr>
+    {% endif %}
     {% if entry.pdf %}
       {% if entry.pdf contains '://' %}
       <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">PDF</a>
       {% else %}
-      <abbr class="badge repo"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" >PDF</a></abbr>
+      <abbr class="badge pdfs"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" >PDF</a></abbr>
       {% endif %}
+    {% endif %}
+    {% if entry.website %}
+      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">Website</a>
+    {% endif %}
+    {% if entry.arxiv %}
+      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">arXiv</a>
     {% endif %}
     {% if entry.supp %}
       {% if entry.supp contains '://' %}
@@ -90,32 +116,6 @@
       {% else %}
       <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">Supp</a>
       {% endif %}
-    {% endif %}
-    {% if entry.blog %}
-      <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">Blog</a>
-    {% endif %}
-    {% if entry.code %}
-      <abbr class="badge repo"><a href="{{ entry.code }}" target="_blank">Code</a></abbr>
-    {% endif %}
-    {% if entry.prize %}
-      <abbr class="badge award">{{ entry.prize }}</abbr>
-    {% endif %}
-    {% if entry.poster %}
-      {% if entry.poster contains '://' %}
-      <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">Poster</a>
-      {% else %}
-      <abbr class="badge repo"><a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" >Poster</a></abbr>
-      {% endif %}
-    {% endif %}
-    {% if entry.slides %}
-      {% if entry.slides contains '://' %}
-      <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">Slides</a>
-      {% else %}
-      <abbr class="badge repo"><a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" >Slides</a></abbr>
-      {% endif %}
-    {% endif %}
-    {% if entry.website %}
-      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">Website</a>
     {% endif %}
     </div>
 

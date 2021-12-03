@@ -88,6 +88,8 @@
     url       = {https://arxiv.org/abs/2009.10795},
     year      = {2020},
     code      = {https://github.com/allenai/cartography},
+    slides    = {https://slideslive.com/38939175},
+    blog      = {1_project},
     abstract  = {Large datasets have become commonplace in NLP research. However, the increased emphasis on data quantity has made it challenging to assess the quality of data. We introduce Data Maps---a model-based tool to characterize and diagnose datasets. We leverage a largely ignored source of information: the behavior of the model on individual instances during training (training dynamics) for building data maps. This yields two intuitive measures for each example---the model's confidence in the true class, and the variability of this confidence across epochs---obtained in a single run of training. Experiments across four datasets show that these model-dependent measures reveal three distinct regions in the data map, each with pronounced characteristics. First, our data maps show the presence of "ambiguous" regions with respect to the model, which contribute the most towards out-of-distribution generalization. Second, the most populous regions in the data are "easy to learn" for the model, and play an important role in model optimization. Finally, data maps uncover a region with instances that the model finds "hard to learn"; these often correspond to labeling errors. Our results indicate that a shift in focus from quantity to quality of data could lead to robust models and improved out-of-distribution generalization.}
 }
 
@@ -100,6 +102,7 @@
     abbr      = {ACL},
     code  = {https://github.com/allenai/dont-stop-pretraining},
     prize = {Best Paper Honorable Mention},
+    blog      = {3_project},
     abstract = {Language models pretrained on text from a wide variety of sources form the foundation of today's NLP. In light of the success of these broad-coverage models, we investigate whether it is still helpful to tailor a pretrained model to the domain of a target task. We present a study across four domains (biomedical and computer science publications, news, and reviews) and eight classification tasks, showing that a second phase of pretraining in-domain (domain-adaptive pretraining) leads to performance gains, under both high- and low-resource settings. Moreover, adapting to the task's unlabeled data (task-adaptive pretraining) improves performance even after domain-adaptive pretraining. Finally, we show that adapting to a task corpus augmented using simple data selection strategies is an effective alternative, especially when resources for domain-adaptive pretraining might be unavailable. Overall, we consistently find that multi-phase adaptive pretraining offers large gains in task performance.}
 }
 
@@ -111,6 +114,7 @@
     abbr      = {ICML},
     url={https://arxiv.org/abs/2002.04108},
     code={https://github.com/swabhs/notebooks_for_aflite},
+    blog      = {2_project},
     abstract={Large neural models have demonstrated human-level performance on language and vision benchmarks, while their performance degrades considerably on adversarial or out-of-distribution samples. This raises the question of whether these models have learned to solve a dataset rather than the underlying task by overfitting to spurious dataset biases. We investigate one recently proposed approach, AFLite, which adversarially filters such dataset biases, as a means to mitigate the prevalent overestimation of machine performance. We provide a theoretical understanding for AFLite, by situating it in the generalized framework for optimum bias reduction. We present extensive supporting evidence that AFLite is broadly applicable for reduction of measurable dataset biases, and that models trained on the filtered datasets yield better generalization to out-of-distribution tasks. Finally, filtering results in a large drop in model performance (e.g., from 92% to 62% for SNLI), while human performance still remains high. Our work thus shows that such filtered datasets can pose new research challenges for robust generalization by serving as upgraded benchmarks. }
 }
 
@@ -133,6 +137,7 @@
     url={https://arxiv.org/abs/2004.11546},
     booktitle={EMNLP},
     abbr      = {EMNLP},
+    blog      = {6_project},
     code={https://github.com/yangyiben/G-DAUG-c-Generative-Data-Augmentation-for-Commonsense-Reasoning},
     abstract={Recent advances in commonsense reasoning depend on large-scale human-annotated training data to achieve peak performance. However, manual curation of training examples is expensive and has been shown to introduce annotation artifacts that neural models can readily exploit and overfit on. We investigate G-DAUG^C, a novel generative data augmentation method that aims to achieve more accurate and robust learning in the low-resource setting. Our approach generates synthetic examples using pretrained language models, and selects the most informative and diverse set of examples for data augmentation. In experiments with multiple commonsense reasoning benchmarks, G-DAUG^C consistently outperforms existing data augmentation methods based on back-translation, and establishes a new state-of-the-art on WinoGrande, CODAH, and CommonsenseQA. Further, in addition to improvements in in-distribution accuracy, G-DAUG^C-augmented training also enhances out-of-distribution generalization, showing greater robustness against adversarial or perturbed examples. Our analysis demonstrates that G-DAUG^C produces a diverse set of fluent training examples, and that its selection and training approaches are important for performance. Our findings encourage future research toward generative data augmentation to enhance both in-distribution learning and out-of-distribution generalization.}
     }
@@ -145,7 +150,7 @@
   author={Swayamdipta, Swabha},
   year={2019},
   school={Carnegie Mellon University},
-  pdf={swabha_thesis.pdf},
+  url={https://swabhs.com/assets/pdf/swabha_thesis.pdf},
   abbr      = {PhD},
   abstract = {With the rise in availability of data for language learning, the role of linguistic structure is under scrutiny. The underlying syntactic structure of language allows for composition of simple elements into more complex ones in innumerable ways; generalization to new examples hinges on this structure. We define a syntactic inductive bias as a signal that steers the learning algorithm towards a syntactically robust solution, over others. This thesis explores the need for incorporation of such biases into already powerful neural models of language. We describe three general approaches for incorporating syntactic inductive biases into task-specific models, under different levels of supervision. The first method calls for joint learning of entire syntactic dependency trees with semantic dependency graphs through direct supervision, to facilitate better semantic dependency parsing. Second, we introduce the paradigm of scaffolded learning, which enables us to leverage inductive biases from syntactic sources to predict a related semantic structure, using only as much supervision as is necessary. The third approach yields general-purpose contextualized representations conditioned on large amounts of data along with their shallow syntactic structures, obtained automatically. The linguistic representations learned as a result of syntactic inductive biases are shown to be effective across a range of downstream tasks, but their usefulness is especially pronounced for semantic tasks.}
 }
@@ -185,6 +190,7 @@
   url={https://arxiv.org/abs/1803.02324},
   poster={posters/artifacts-naacl.pdf},
   code={https://github.com/swabhs/notebooks/blob/master/annotation_artifacts.ipynb},
+  blog      = {5_project},
   abstract = {Large-scale datasets for natural language inference are created by presenting crowd workers with a sentence (premise), and asking them to generate three new sentences (hypotheses) that it entails, contradicts, or is logically neutral with respect to. We show that, in a significant portion of such data, this protocol leaves clues that make it possible to identify the label by looking only at the hypothesis, without observing the premise. Specifically, we show that a simple text categorization model can correctly classify the hypothesis alone in about 67% of SNLI (Bowman et. al, 2015) and 53% of MultiNLI (Williams et. al, 2017). Our analysis reveals that specific linguistic phenomena such as negation and vagueness are highly correlated with certain inference classes. Our findings suggest that the success of natural language inference models to date has been overestimated, and that the task remains a hard open problem.}
 }
 
@@ -198,6 +204,7 @@
   url    = {https://arxiv.org/abs/1808.10485},
   talk    = {https://youtu.be/1YK9dEjIGlU?t=40m},
   code    = {https://github.com/swabhs/scaffolding},
+  blog      = {4_project},
   abstract = {We introduce the syntactic scaffold, an approach to incorporating syntactic information into semantic tasks. Syntactic scaffolds avoid expensive syntactic processing at runtime, only making use of a treebank during training, through a multitask objective. We improve over strong baselines on PropBank semantics, frame semantics, and coreference resolution, achieving competitive performance on all three tasks.}
 }
 
