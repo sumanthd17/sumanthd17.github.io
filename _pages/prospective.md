@@ -28,7 +28,7 @@ Can we use the lessons above to create high quality datasets, more suitable for 
 
 ##### 🤖 Robustness to Model Biases:
 <!-- Given that one of the loftiest goals in machine learning is generalization, we need to ensure that -->
-Current large scale models tend to [rely on spurious biases to make the correct predictions](https://arxiv.org/abs/1803.02324). The reduction of undesirable biases could be done via data selection, as in [AFLite](https://arxiv.org/abs/2002.04108) or by altering [learning objectives](https://arxiv.org/abs/1909.03683). However, the discovery of such biases is much trickier and task-dependent.
+Current large scale models tend to [rely on spurious biases to make the correct predictions](https://arxiv.org/abs/1803.02324). The reduction of undesirable biases could be done via data selection, as in [AFLite](https://arxiv.org/abs/2002.04108) or by altering the [learning objectives](https://arxiv.org/abs/1909.03683). However, the discovery of such biases is much trickier and task-dependent.
 Going beyond solutions presented in [AFLite](https://arxiv.org/abs/2002.04108), how can we find spurious correlations automatically?
 
 Particularly harmful are social biases in models, such as those which correlate surface markers of certain dialects with subjective attributes such as toxicity. [Social biases cannot be mitigated easily](https://arxiv.org/abs/2102.00086) and require rethinking data collection and task design, as we show in our [latest paper](https://arxiv.org/abs/2111.07997).
@@ -44,6 +44,6 @@ What cannot be measured, cannot be improved. How can we make our [models explain
 ###### If you're NOT at USC:
 You do <em>not</em> have to email me, especially since I haven't officially started at USC and do not have any control over the admissions process. My recommendation to you is to apply through the regular PhD program [admissions](https://www.cs.usc.edu/ph-d-application-information/) by December 15th and USC will be in touch with you regarding the next steps. I will go over every single application that lists me as a potential advisor. 🤞
 
-###### If you're' already at USC:
+###### If you're already at USC:
 
-Please feel free to email me if you are looking for advising or TAing. However, you should know that there is not much I can officially do, just yet. It would be great to be introduced and learn about your interests, though! 👋
+Please feel free to email me if you are looking for advising or TA positions. However, you should know that there is not much I can officially do, just yet. It would be great to be introduced and learn about your interests, though! 👋
