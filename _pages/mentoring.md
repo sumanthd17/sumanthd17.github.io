@@ -33,17 +33,12 @@ tr:nth-child(even) {
   </tr>
 <!-- https://phoenix.yizimg.com/ayush-pancholy -->
   <tr>
-    <td><a href="https://sunjiao123sun.github.io/">Jiao Sun</a></td>
+    <td><a href="https://sunjiao123sun.github.io/">Jiao Sun</a> [co-advised with <a href="https://xuezhemax.github.io/">X. Ma</a>]</td>
     <td>PhD, USC</td>
     <td>Sep 2021 - Present</td>
   </tr>
   <tr>
-    <td><a href="https://kawine.github.io/">Kawin Ethayarajh</a></td>
-    <td>PhD, Stanford</td>
-    <td>June 2021 - Present</td>
-  </tr>
-  <tr>
-    <td><a href="https://sarahwie.github.io/">Sarah Wiegreffe</a> [co-advised with <a href="https://jmhessel.com/">Jack Hessel</a>]</td>
+    <td><a href="https://sarahwie.github.io/">Sarah Wiegreffe</a> [co-advised with <a href="https://jmhessel.com/">J. Hessel</a>]</td>
     <td>PhD, Georgia Tech</td>
     <td>May 2021 - Present</td>
   </tr>
@@ -53,10 +48,20 @@ tr:nth-child(even) {
     <td>Jan 2021 - Present</td>
   </tr> -->
   <tr>
+    <td><a href="https://alisawuffles.github.io/">Alisa Liu</a></td>
+    <td>PhD, UW</td>
+    <td>June 2020 - Present</td>
+  </tr>
+  <tr>
+    <td><a href="https://kawine.github.io/">Kawin Ethayarajh</a></td>
+    <td>PhD, Stanford</td>
+    <td>June - Nov 2021</td>
+  </tr>
+  <!-- <tr>
     <td><a href="https://www.linkedin.com/in/ximing-lu-4aa9a51a0">Ximing Lu</a></td>
     <td>Undergrad, UW</td>
     <td>Nov 2020 - Present</td>
-  </tr>
+  </tr> -->
   <tr>
     <td><a href="https://alonjacovi.github.io/">Alon Jacovi</a></td>
     <td>PhD, Bar Ilan University</td>
@@ -65,12 +70,7 @@ tr:nth-child(even) {
   <tr>
     <td><a href="http://jennyliang.me/">Jenny Liang</a></td>
     <td>Undergrad, UW (Now: PYI, AI2)</td>
-    <td>July 2020 - May 2021</td>
-  </tr>
-  <tr>
-    <td><a href="https://alisawuffles.github.io/">Alisa Liu</a></td>
-    <td>PhD, UW</td>
-    <td>June 2020 - Present</td>
+    <td>Summer + Fall 2020</td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/jize-cao-166890135/">Jize Cao</a></td>
@@ -78,9 +78,9 @@ tr:nth-child(even) {
     <td>Summer 2020</td>
   </tr>
   <tr>
-    <td><a href="https://xuhuizhou.github.io/">Xuhui Zhou</a> [co-advised with <a href="https://homes.cs.washington.edu/~msap/index.html">Maarten Sap</a>]</td>
+    <td><a href="https://xuhuizhou.github.io/">Xuhui Zhou</a> [co-advised with <a href="https://homes.cs.washington.edu/~msap/index.html">M. Sap</a>]</td>
     <td>Masters, UW (Now: PhD, Georgia Tech)</td>
-    <td>May 2020 - Present</td>
+    <td>Summer + Fall 2020</td>
   </tr>
   <tr>
     <td>Yiben Yang</td>
