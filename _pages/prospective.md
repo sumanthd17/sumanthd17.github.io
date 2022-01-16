@@ -34,7 +34,7 @@ Going beyond solutions presented in [AFLite](https://arxiv.org/abs/2002.04108), 
 Particularly harmful are social biases in models, such as those which correlate surface markers of certain dialects with subjective attributes such as toxicity. [Social biases cannot be mitigated easily](https://arxiv.org/abs/2102.00086) and require rethinking data collection and task design, as we show in our [latest paper](https://arxiv.org/abs/2111.07997).
 
 ##### 🕵🏼‍♀️ Model Interpretability and 👩🏼‍🔬 Meticulous Evaluation:
-What cannot be measured, cannot be improved. How can we make our [models explain their decisions to human users](https://arxiv.org/abs/2103.01378)? Moreover, as tasks previously considered extremely difficult are getting easier, how do we best [adapt our evaluation methods](https://arxiv.org/abs/2102.01454) to ensure fair evaluation?
+What cannot be measured, cannot be improved. How can we make our [models explain their decisions](https://arxiv.org/abs/2112.08674) to human users, [_intuitively_](https://arxiv.org/abs/2103.01378)? Moreover, as tasks previously considered extremely difficult are getting easier, how do we best [adapt our evaluation methods](https://arxiv.org/abs/2102.01454) to ensure fair evaluation?
 
 <hr>
 

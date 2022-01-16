@@ -33,6 +33,11 @@ tr:nth-child(even) {
   </tr>
 <!-- https://phoenix.yizimg.com/ayush-pancholy -->
   <tr>
+    <td><a href="https://abdallah197.com/">Abdallah Bashir</a></td>
+    <td></td>
+    <td>Jan 2022 - Present</td>
+  </tr>
+  <tr>
     <td><a href="https://sunjiao123sun.github.io/">Jiao Sun</a> [co-advised with <a href="https://xuezhemax.github.io/">X. Ma</a>]</td>
     <td>PhD, USC</td>
     <td>Sep 2021 - Present</td>
