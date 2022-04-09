@@ -52,18 +52,7 @@ A brief [biosketch](/bio/) for invited talks.
     * Syntactic Scaffolds for Semantic Structures
     * Apr 27, 2018
 
-
-
-
 <hr>
-
-### tutorials
-
-- [Transfer Learning in Natural Language Processing](https://www.aclweb.org/anthology/N19-5004/) at NAACL 2019.
-    * <a class="button button1" href="https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc">Slides</a>
-- [Multilingual FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/node/5552/) at COLING 2018.
-    * <a class="button button1" href="https://github.com/swabhs/coling18tutorial/">Slides</a>
-
 
 ### guest lectures
 
@@ -94,3 +83,12 @@ A brief [biosketch](/bio/) for invited talks.
 - <a class="button button1" href="../assets/pdf/talks/cle.pdf">Dependency Parsing with the Chu-Liu-Edmonds algorithm</a> for [CMU 11-711: Algorithms for NLP](http://demo.clab.cs.cmu.edu/11711fa18/).
     * Co-taught with Sam Thomson. Host Instructors: Chris Dyer, Alon Lavie and Bob Frederking
     * Fall 2014
+
+<hr>
+
+### tutorials
+
+- [Transfer Learning in Natural Language Processing](https://www.aclweb.org/anthology/N19-5004/) at NAACL 2019.
+    * <a class="button button1" href="https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc">Slides</a>
+- [Multilingual FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/node/5552/) at COLING 2018.
+    * <a class="button button1" href="https://github.com/swabhs/coling18tutorial/">Slides</a>
