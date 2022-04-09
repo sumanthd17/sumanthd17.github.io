@@ -6,3 +6,5 @@ _site
 Gemfile.lock
 githubio.code-workspace
 .tweet-cache/
+.bundle
+vendor/*
