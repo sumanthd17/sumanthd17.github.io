@@ -115,7 +115,7 @@ tr:nth-child(even) {
 </table>
 
 
-
+<hr>
 
 
 ### teaching assistantship

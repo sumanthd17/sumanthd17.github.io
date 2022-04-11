@@ -9,7 +9,7 @@ nav: true
 ### invited talks
 A brief [biosketch](/bio/) for invited talks.
 
-- [IFDS Ethics Seminar @ Oracle](https://sites.google.com/ucsc.edu/ifds-ethics-and-algorithms/past-talks?authuser=0)
+- [IFDS Ethics Seminar @ UCSC](https://sites.google.com/ucsc.edu/ifds-ethics-and-algorithms/past-talks?authuser=0)
     * Rethinking Dataset Construction: : The Role of Generative Modeling and Annotator Perspectives
     * Mar 16, 2022
 - [Machine Learning Research Group @ Oracle](https://labs.oracle.com/pls/apex/f?p=LABS:project_details:0:7)
@@ -39,7 +39,7 @@ A brief [biosketch](/bio/) for invited talks.
 - [JHU CLSP Seminar](https://www.clsp.jhu.edu/seminars/): Johns Hopkins University, Baltimore
     * Learning Challenges in Natural Language Processing
     * Mar 13, 2019
-- CILVR Seminar New York University, New York
+- [CILVR Seminar](https://cims.nyu.edu/ai/seminars/cilvr-seminar-series/) New York University, New York
     * Learning Challenges in Natural Language Processing
     * Mar 11, 2019
 - Seminar, Microsoft Research, Redmond
@@ -48,7 +48,7 @@ A brief [biosketch](/bio/) for invited talks.
 - AI Breakthroughs Workshop, Microsoft Research, Redmond
     * [Representation Learning with Linguistic Structure](../assets/pdf/talks/Swabha-MSR-AI-Breakthroughs.pdf)
     * Sep 15, 2018
-- NorthWest NLP: Microsoft Research, Redmond
+- [NorthWest NLP](https://sites.google.com/view/nwnlp18): Microsoft Research, Redmond
     * Syntactic Scaffolds for Semantic Structures
     * Apr 27, 2018
 
