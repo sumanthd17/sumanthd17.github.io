@@ -16,7 +16,9 @@ USC waived GRE scores ⚡ for graduate admissions in Fall 2022 and offers [fee w
 
 
 Please consider <u>selecting</u> [my name](https://www.cs.usc.edu/directory/faculty/profile/?lname=Swayamdipta&fname=Swabha) <u>as a potential advisor</u>, especially if your research interests match [mine](/publications/), even though your research background might be different.
-I'm broadly interested in
+
+
+I'm broadly interested in:
 
 <hr>
 

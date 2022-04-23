@@ -34,12 +34,12 @@ tr:nth-child(even) {
 <!-- https://phoenix.yizimg.com/ayush-pancholy -->
   <tr>
     <td><a href="http://www.cs.virginia.edu/~hc9mx/">Hanjie Chen</a></td>
-    <td></td>
+    <td>PhD, University of Virginia</td>
     <td>May 2022 - </td>
   </tr>
   <tr>
     <td><a href="https://abdallah197.com/">Abdallah Bashir</a></td>
-    <td></td>
+    <td>Masters, Saarland University</td>
     <td>Jan - Mar 2022</td>
   </tr>
   <tr>
