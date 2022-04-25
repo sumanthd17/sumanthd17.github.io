@@ -25,7 +25,7 @@ The ultimate goal is advancing generalization not only via [bias reduction](http
 ##### 🌴 Update
 
 
-I will be starting as the Gabilan Assistant Professor in the [USC Viterbi Department of CS](https://www.cs.usc.edu/) in 🍁 Fall 2022.
+I will be starting as the Gabilan Assistant Professor of [Computer Science in the USC Viterbi School of Engineering](https://www.cs.usc.edu/) in 🍁 Fall 2022.
 <!-- I am <span class="font-weight-bold">[actively recruiting PhD students](/prospective/)</span>. -->
 
 <hr>

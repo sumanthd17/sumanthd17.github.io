@@ -81,6 +81,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  group:
+    output: true
+    permalink: /group/:path/
 
 news_limit: 5
 

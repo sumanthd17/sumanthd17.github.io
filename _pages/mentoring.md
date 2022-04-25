@@ -3,7 +3,7 @@ layout: page
 permalink: /mentoring/
 title: mentoring
 description: students, and more
-nav: true
+nav: false
 ---
 
 ### students
@@ -116,11 +116,3 @@ tr:nth-child(even) {
 
 
 <hr>
-
-
-### teaching assistantship
-
-- Head TA for [CMU 11-411: Undergrad NLP](http://demo.clab.cs.cmu.edu/NLP/).
-    * Primary Instructors: Chris Dyer, Alon W Black, and Shomir Wilson
-    * Spring 2015
-

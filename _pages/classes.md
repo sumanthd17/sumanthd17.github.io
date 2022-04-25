@@ -17,10 +17,6 @@ The course will describe how biases arising from creation methodologies might in
 We will also explore some literature on how the quality of datasets can be estimated automatically, contextualized via data sheets, and broadly within the existing literature on data ethics.
 Finally, we will look at some extensions of the above concepts to unlabeled datasets, as well as datasets with  modalities beyond language.
 
-
-
-
-
 <hr>
 
 ### Staff and Logistics
@@ -33,8 +29,6 @@ Finally, we will look at some extensions of the above concepts to unlabeled data
 <hr>
 
 
-
-
 ### Pre-Requisites
 
 You must have taken undergraduate and/or graduate level classes in either Machine Learning or Natural language Processing, equivalent to CSCI 544 (Applied Natural Language Processing) or CSCI 567 (Machine learning), respectively.
@@ -45,5 +39,3 @@ Please email the instructor for special circumstances or for specific clarificat
 ### Schedule
 
 TBD
-
-<hr>

@@ -1,15 +1,26 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: 
-nav: false
+title: group
+permalink: /group/
+description:
+nav: true
 ---
+
+&nbsp;
+
+### PhD Students
+Starting Fall 2022.
+
+
+<hr>
+
+### AI2 Interns and Student Collaborators
+
 
 <div class="projects grid">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-  {% for project in sorted_projects %}
+  {% assign sorted_projects = site.group | sort: "time" %}
+  {% for project in sorted_projects reversed %}
   <div class="grid-item">
     {% if project.redirect %}
     <a href="{{ project.redirect }}" target="_blank">
@@ -21,8 +32,15 @@ nav: false
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <h3 class="card-title text-lowercase">{{ project.title }}</h3>
           <p class="card-text">{{ project.description }}</p>
+          {% if project.comentor %}
+          <p class="card-text">Co-Mentor: {{ project.comentor }}</p>
+          {% endif %}
+          {% if project.thesis %}
+          <p class="card-text"><a href="{{ project.thesis }}">Thesis</a></p>
+          {% endif %}
+          <p class="card-text">📅 {{ project.time }}</p>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
             <div class="github-icon">

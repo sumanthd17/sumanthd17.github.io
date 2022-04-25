@@ -280,6 +280,26 @@ footer.sticky-bottom {
 }
 
 
+// Group
+
+.group {
+  .grid-item {
+    width: 150px;
+    margin-bottom: 10px;
+    a {
+      color: black;
+      text-decoration: none;
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+  .card img {
+    width: 80%;
+  }
+}
+
+
 // Publications
 
 .publications {
