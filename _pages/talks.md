@@ -9,6 +9,13 @@ nav: true
 ### invited talks
 A brief [biosketch](/bio/) for invited talks.
 
+
+- [ACL Spotlight Talks for Young Rising Stars](https://www.2022.aclweb.org/invited-talks)
+    * The Devil's in the Data: Mapping and Generating Datasets for Robust Generalization
+    * May 23, 2022
+- [UC-Irvine CS Seminar](https://www.cs.uci.edu/events/seminar-series/)
+    * Mapping and Generating Datasets for Robust Generalization
+    * May 13, 2022
 - [IFDS Ethics Seminar @ UCSC](https://sites.google.com/ucsc.edu/ifds-ethics-and-algorithms/past-talks?authuser=0)
     * Rethinking Dataset Construction: : The Role of Generative Modeling and Annotator Perspectives
     * Mar 16, 2022
@@ -51,6 +58,4 @@ A brief [biosketch](/bio/) for invited talks.
 - [NorthWest NLP](https://sites.google.com/view/nwnlp18): Microsoft Research, Redmond
     * Syntactic Scaffolds for Semantic Structures
     * Apr 27, 2018
-
-<hr>
 
