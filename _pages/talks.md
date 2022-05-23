@@ -11,7 +11,7 @@ A brief [biosketch](/bio/) for invited talks.
 
 
 - [ACL Spotlight Talks for Young Rising Stars](https://www.2022.aclweb.org/invited-talks)
-    * The Devil's in the Data: Mapping and Generating Datasets for Robust Generalization
+    * [The Devil's in the Data: Mapping and Generating Datasets for Robust Generalization](../assets/pdf/talks/acl-the-devils-in-the-data.pdf)
     * May 23, 2022
 - [UC-Irvine CS Seminar](https://www.cs.uci.edu/events/seminar-series/)
     * Mapping and Generating Datasets for Robust Generalization
