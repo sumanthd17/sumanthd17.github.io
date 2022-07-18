@@ -2,7 +2,7 @@
 layout: page
 permalink: /classes/
 title: CSCI 699 Data-Centric NLP
-description: Fall 2022; Mon Wed 2pm PT
+description: Fall 2022; Mon Wed 10:00-11:50 am PT; WPH 203
 nav: false
 ---
 
@@ -38,4 +38,4 @@ Please email the instructor for special circumstances or for specific clarificat
 
 ### Schedule
 
-TBD
+Mon Wed 10:00-11:50 am PT; WPH 203

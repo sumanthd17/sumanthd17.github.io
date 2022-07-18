@@ -12,6 +12,26 @@
     abstract={A recurring challenge of crowdsourcing NLP datasets at scale is that human writers often rely on repetitive patterns when crafting examples, leading to a lack of linguistic diversity. We introduce a novel paradigm for dataset creation based on human and machine collaboration, which brings together the generative strength of language models and the evaluative strength of humans. Starting with an existing dataset, MultiNLI, our approach uses dataset cartography to automatically identify examples that demonstrate challenging reasoning patterns, and instructs GPT-3 to compose new examples with similar patterns. Machine generated examples are then automatically filtered, and finally revised and labeled by human crowdworkers to ensure quality. The resulting dataset, WANLI, consists of 108,357 natural language inference (NLI) examples that present unique empirical strengths over existing NLI datasets. Remarkably, training a model on WANLI instead of MNLI (which is 4 times larger) improves performance on seven out-of-domain test sets we consider, including by 11% on HANS and 9% on Adversarial NLI. Moreover, combining MNLI with WANLI is more effective than combining with other augmentation sets that have been introduced. Our results demonstrate the potential of natural language generation techniques to curate NLP datasets of enhanced quality and diversity.},
 }
 
+@proceedings{deeplo-2022-deep,
+    title = "Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing",
+    author = "Cherry, Colin  and
+      Fan, Angela  and
+      Foster, George  and
+      Haffari, Gholamreza (Reza)  and
+      Khadivi, Shahram  and
+      Peng, Nanyun (Violet)  and
+      Ren, Xiang  and
+      Shareghi, Ehsan  and
+      Swayamdipta, Swabha",
+    month = jul,
+    year = "2022",
+    address = "Hybrid",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.deeplo-1.0",
+    abbr={NAACL},
+    abstract={The NAACL 2022 Workshop on Deep Learning Approaches for Low-Resource Natural Language Processing (DeepLo) takes place on Thursday, July 22, in Seattle Washington, USA, immediately after the main conference. Natural Language Processing is being revolutionized by deep learning. However, deep learning requires large amounts of annotated data, and its advantage over traditional statistical methods typically diminishes when such data is not available. Large amounts of annotated data simply do not exist for many low-resource languages. Even for high-resource languages it can be difficult to find linguistically annotated data of sufficient size and quality to allow neural methods to excel; this remains true even as few-shot learning approaches have gained popularity in recent years. This workshop aims to bring together researchers from the NLP and ML communities who work on learning with neural methods when there is not enough data for those methods to succeed out-of-the-box. Specifically, it will provide attendees with an overview of new and existing approaches from various disciplines, and enable them to distill principles that can be more generally applicable. We will also discuss the main challenges arising in this setting, and outline potential directions for future progress. Our program covers a broad spectrum of applications and techniques. It is augmented by invited talks from Yulia Tsvetkov, Sebastian Ruder, Graham Neubig, and David Ifeoluwa Adelani. We would like to thank the members of our Program Committee for their timely and thoughtful reviews.}
+}
+
 @inproceedings{wiegreffe2021reframing,
     title={Reframing Human-AI Collaboration for Generating Free-Text Explanations},
     author={Sarah Wiegreffe and Jack Hessel and Swabha Swayamdipta and Mark Riedl and Yejin Choi},
@@ -33,7 +53,7 @@
       abstract={The perceived toxicity of language can vary based on someone's identity and beliefs, but this variation is often ignored when collecting toxic language datasets, resulting in dataset and model biases. We seek to understand the who, why, and what behind biases in toxicity annotations. In two online studies with demographically and politically diverse participants, we investigate the effect of annotator identities (who) and beliefs (why), drawing from social psychology research about hate speech, free speech, racist beliefs, political leaning, and more. We disentangle what is annotated as toxic by considering posts with three characteristics: anti-Black language, African American English (AAE) dialect, and vulgarity. Our results show strong associations between annotator identity and beliefs and their ratings of toxicity. Notably, more conservative annotators and those who scored highly on our scale for racist beliefs were less likely to rate anti-Black language as toxic, but more likely to rate AAE as toxic. We additionally present a case study illustrating how a popular toxicity detection system's ratings inherently reflect only specific beliefs and perspectives. Our findings call for contextualizing toxicity labels in social variables, which raises immense implications for toxic language annotation and detection.}
 }
 
-@misc{ethayarajh2021informationtheoretic,
+@inproceedings{ethayarajh2021informationtheoretic,
     title={Understanding Dataset Difficulty with 𝒱-Usable Information},
     author={Kawin Ethayarajh and Yejin Choi and Swabha Swayamdipta},
     year={2022},
