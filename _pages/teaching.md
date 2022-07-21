@@ -8,7 +8,7 @@ nav: true
 
 ### classes
 
-[upcoming plan for Fall 2022](/classes/), more details coming soon.
+* [USC CSCI 699: Data-Centric NLP](http://swabhs.com/csci699-dcnlp/)
 
 ### guest lectures
 
