@@ -349,21 +349,21 @@ footer.sticky-bottom {
         }
         .award {
           color: wheat !important;
-          background-color: #2e8b57;
+          background-color: var(--global-theme-color);
         }
         .repo {
-          background-color: #87e33b;
+          background-color: var(--global-theme-color-contrast);
         }
         .pdfs {
-          background-color: #44c17b;
+          background-color: var(--global-theme-color-contrast2);
         }
         .blog {
-          background-color: #349e63;
+          background-color: var(--global-theme-color-contrast3);
         }
         .url {
           background-color: white;
           a {
-            color: green;
+            color: var(--global-theme-color);
             &:hover {
               text-decoration: none;
             }

@@ -32,7 +32,7 @@
           {% else %}
             {% unless forloop.last %}
               {% if author.last == site.scholar.last_name %}
-                <span style="color:#009f06">{{author.first}} {{author.last}}</span>,
+                <span style="color:cadetblue">{{author.first}} {{author.last}}</span>,
               {% else %}
                 {% if site.data.coauthors[author.last] %}
                   <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.first}} {{author.last}}</a>,
@@ -42,7 +42,7 @@
               {% endif %}
             {% else %}
               {% if author.last == site.scholar.last_name %}
-                and <span style="color:#009f06">{{author.first}} {{author.last}}</span>
+                and <span style="color:cadetblue">{{author.first}} {{author.last}}</span>
               {% else %}
                 {% if site.data.coauthors[author.last] %}
                   and <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.first}} {{author.last}}</a>
@@ -69,7 +69,7 @@
 
     <div class="links abbr">
     {% if entry.abstract %}
-      <a class="abstract badge" role="button"><span style="color:#00ab37">Abstract</span></a>
+      <a class="abstract badge" role="button"><span style="color:cadetblue">Abstract</span></a>
     {% endif %}
     {% if entry.code %}
       <abbr class="badge repo"><a href="{{ entry.code }}" target="_blank">Code</a></abbr>

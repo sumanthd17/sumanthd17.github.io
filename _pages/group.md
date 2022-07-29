@@ -8,8 +8,8 @@ nav: true
 
 &nbsp;
 
-### PhD Students
-Starting Fall 2022.
+### [PhD Students](https://dilllab.github.io)
+Starting Fall 2022!
 
 
 <hr>

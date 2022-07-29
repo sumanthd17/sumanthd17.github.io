@@ -8,3 +8,4 @@ githubio.code-workspace
 .tweet-cache/
 .bundle
 vendor/*
+.jekyll-cache/
