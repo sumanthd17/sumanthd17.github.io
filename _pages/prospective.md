@@ -14,7 +14,7 @@ nav_order: 7
 
 ### Am I recruiting?
 
-I am NO longer recruiting graduate or undergraduate students at USC, or interns at AI2.
+I am NO longer recruiting graduate students at USC, or interns at AI2.
 
 <hr>
 
