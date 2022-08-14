@@ -20,18 +20,21 @@ I am NO longer recruiting graduate students at USC, or interns at AI2.
 
 ### Should you send me an email?
 
-* If you're already at USC:
-  * _Masters Students and RAships:_ Do consider enrolling for [CSCI-699 Data-Centric NLP](https://swabhs.com/csci699-dcnlp/), a class I will be teaching this Fall. Note that class enrollment is not guaranteed for all Masters students.
-  * _Masters Students and TAships:_ I am not looking for Masters Students as TAs at the moment.
-  * _PhD Students and TAships:_ Please feel free to email me for TAing [CSCI-699 Data-Centric NLP](https://swabhs.com/csci699-dcnlp/).
+
+#### If you're already at USC:
+  * _Masters Students:_
+    * _RAships:_ While I'm not able to offer any more RAships at the moment, do consider enrolling for [CSCI-699 Data-Centric NLP](https://swabhs.com/csci699-dcnlp/), a class I will be teaching this Fall. This might lead to potential collaborations in the future. Note that class enrollment is not guaranteed for all Masters students.
+    * _TAships:_ I am not looking for Masters Students as TAs at the moment.
+  * _PhD Students:_ I no longer have any open TA or RA positions available, but if you think our interests overlap considerably and would like to collaborate, do email me. I might be slow to respond.
   * _Undergrads:_ Please feel free to email me if you are looking for research opportunities.
 
-* If you're not at USC:
-  * I might not respond if you're looking for recruitment - apologies! Other emails about research questions etc. are welcome, though I might be slow to respond to them.
+
+#### If you're not at USC:
+  * _High-school students_: Please consider [K-12 research opportunities at USC](https://www.cs.usc.edu/k-12-outreach/), I do not know my plans to recruit summer students yet.
+  * _Others:_ I might not respond if you're looking for recruitment - apologies! Other emails about research questions etc. are welcome, though I might be slow to respond to them.
 
 
-* If you're a high-school student:
-  * Please see [here for K-12 research opportunities at USC](https://www.cs.usc.edu/k-12-outreach/), I do not know my plans to recruit summer students yet.
+
 
 
 <!--Yes, I am actively recruiting PhD students to USC in 🍁 Fall 2022! Thanks for your interest ☀️ in my research!

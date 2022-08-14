@@ -8,11 +8,12 @@ nav: true
 
 ### classes
 
-* [USC CSCI 699: Data-Centric NLP](http://swabhs.com/csci699-dcnlp/)
+- [USC CSCI 699: Data-Centric NLP](http://swabhs.com/csci699-dcnlp/)
+    * Fall 2022
 
 ### guest lectures
 
-- What's in a dataset? for [USC CSCI 697: Seminar in Computer Science Research]()
+- What's in a dataset? for [USC CSCI 697: Seminar in Computer Science Research](https://catalogue.usc.edu/preview_course_nopop.php?catoid=12&coid=181925)
     * Host Instructor: Cyrus Shahabi
     * Spring 2022
 - Data Centric NLP for [UMinnesota CSCI 8980: Intro to NLP Research](https://dykang.github.io/classes/csci8980/Spring2021/)
@@ -29,7 +30,7 @@ nav: true
     * Fall 2020 / [Slides](../assets/pdf/talks/utaustin-guest-lecture-biases-and-interpretability.pdf)
 - Phrase-Structure Parsing for [UW CSE 447/547: Natural Language Processing](https://courses.cs.washington.edu/courses/cse447/19wi/)
     * Co-taught with Jungo Kasai. Host Instructor: Noah Smith
-    * Winter 2019
+    * Winter 2019 / [Slides](../assets/pdf/talks/uw-cse-447-547m-dependency-syntax-and-parsing.pdf)
 - Minimum Bayes Risk decoding in [UW CSE 599 D1: Advanced Topics in Natural Language Processing](https://wammar.github.io/2018sp_uw_cse_599/)
     * Host Instructor: Waleed Ammar
     * Spring 2018
