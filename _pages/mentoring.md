@@ -20,6 +20,8 @@ I am starting the **Datasets, Interpretability, Language and Learning** Lab, or 
 
 ### interns and student collaborators
 
+I had the pleasure of mentoring and collaborating with several students and interns during my postdoc at AI2.
+
 
 <div class="projects grid">
 

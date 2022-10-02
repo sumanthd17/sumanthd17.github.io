@@ -26,7 +26,8 @@ I am NO longer recruiting graduate students at USC, or interns at AI2.
     * _RAships:_ While I'm not able to offer any more RAships at the moment, do consider enrolling for [CSCI-699 Data-Centric NLP](https://swabhs.com/csci699-dcnlp/), a class I will be teaching this Fall. This might lead to potential collaborations in the future. Note that class enrollment is not guaranteed for all Masters students.
     * _TAships:_ I am not looking for Masters Students as TAs at the moment.
   * _PhD Students:_ I no longer have any open TA or RA positions available, but if you think our interests overlap considerably and would like to collaborate, do email me. I might be slow to respond.
-  * _Undergrads:_ Please feel free to email me if you are looking for research opportunities.
+  * _Undergrads:_ Please feel free to email me if you are looking for research opportunities. See other opportunities at [CURVE USC](https://viterbiundergrad.usc.edu/research/curve/research-positions/computer-science/).
+  <!-- Contact Katie Mills for high school AI research opportunities kmills@usc.edu -->
 
 
 #### If you're not at USC:

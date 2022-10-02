@@ -10,6 +10,16 @@ nav: true
 A brief [biosketch](/bio/) for invited talks.
 
 
+- __(Upcoming)__ CS697 PhD Seminar
+    * Spring 2023
+- __(Upcoming)__ ACML Tutorial
+    * Dec 2022
+- __(Upcoming)__ CAIS++ Seminar
+    * Nov 2022
+- __(Upcoming)__ SoCal NLP
+    * Nov 18, 2022
+- __(Upcoming)__ CAIS Seminar
+    * Nov 9, 2022
 - [ACL Spotlight Talks for Young Rising Stars](https://www.2022.aclweb.org/invited-talks)
     * [The Devil's in the Data: Mapping and Generating Datasets for Robust Generalization](../assets/pdf/talks/acl-the-devils-in-the-data.pdf)
     * May 23, 2022
@@ -59,3 +69,12 @@ A brief [biosketch](/bio/) for invited talks.
     * Syntactic Scaffolds for Semantic Structures
     * Apr 27, 2018
 
+### panels
+
+
+- __(Upcoming)__ AImaginings at USC Harman Academy for Polymathic Study
+    * Apr 5, 2023
+- [DADC workshop](https://dadcworkshop.github.io/) at [NAACL](https://2022.naacl.org/)
+    * Jul 14, 2022
+- [Responsible AI Symposium 2022](https://www.youtube.com/watch?v=4Dg-qPh2Tq0&ab_channel=ArtificialIntelligenceLosAngelesCommunity) for [AILA](https://www.joinai.la/)
+    * Jun 17, 2022
