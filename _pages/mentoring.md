@@ -6,13 +6,25 @@ description:
 nav: true
 ---
 
-&nbsp;
+<!-- &nbsp; -->
 
 <hr>
 
-### 🌿 [dill lab at usc](https://dill-lab.github.io/)
+### [dill 🌿 lab ](https://dill-lab.github.io/)
 
-I am starting the **Datasets, Interpretability, Language and Learning** Lab, or [DILL at USC](https://dill-lab.github.io/), from Fall 2022.
+I lead the **[Datasets, Interpretability, Language and Learning](https://dill-lab.github.io/)** (DILL 🌿) Lab at USC.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/dill-selfie.jpg' | relative_url }}" alt="" title="DILL Sep 2022"/>
+    </div>
+</div>
+<div class="caption">
+  From R to L: Sayan Ghosh, Ting-Rui Chiang, Jaspreet Ranjit and myself.
+</div>
+&nbsp;
+
+
 
 <hr>
 
@@ -20,7 +32,7 @@ I am starting the **Datasets, Interpretability, Language and Learning** Lab, or 
 
 ### interns and student collaborators
 
-I had the pleasure of mentoring and collaborating with several students and interns during my postdoc at AI2.
+I had the pleasure of mentoring and collaborating with several students and interns during my postdoc at AI2, as well as during my PhD.
 
 
 <div class="projects grid">

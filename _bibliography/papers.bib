@@ -1,12 +1,34 @@
 ---
 ---
 
+@inproceedings{sun2022investigating,
+    title={Investigating the Benefits of Free-Form Rationales},
+    author={Jiao Sun and Swabha Swayamdipta and Jonathan May and Xuezhe Ma},
+    year={2022},
+    abbr={EMNLP},
+    booktitle={Findings of EMNLP},
+    url={https://arxiv.org/abs/2206.11083},
+    abstract={Free-form rationales aim to aid model interpretability by supplying the background knowledge that can help understand model decisions. Crowdsourced rationales are provided for commonsense QA instances in popular datasets such as CoS-E and ECQA, but their utility remains under-investigated. We present human studies which show that ECQA rationales indeed provide additional background information to understand a decision, while over 88% of CoS-E rationales do not. Inspired by this finding, we ask: can the additional context provided by free-form rationales benefit models, similar to human users? We investigate the utility of rationales as an additional source of supervision, by varying the quantity and quality of rationales during training. After controlling for instances where rationales leak the correct answer while not providing additional background knowledge, we find that incorporating only 5% of rationales during training can boost model performance by 47.22% for CoS-E and 57.14% for ECQA during inference. Moreover, we also show that rationale quality matters: compared to crowdsourced rationales, T5-generated rationales provide not only weaker supervision to models, but are also not helpful for humans in aiding model interpretability.},
+}
 
-@misc{liu2022wanli,
+
+@inproceedings{howard2022neurocf,
+  author = {Phillip Howard and Gadi Singer and Vasudev Lal and Yejin Choi and Swabha Swayamdipta},
+  title = {NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation},
+  year = {2022},
+  abbr={EMNLP},
+  booktitle={Findings of EMNLP},
+  url={https://swabhs.com/assets/pdf/_EMNLP_2022__NeuroLogic_Counterfactuals.pdf},
+  abstract={While counterfactual data augmentation offers a promising step towards robust generalization in natural language processing, producing a set of counterfactuals that offer valuable inductive bias for models remains a challenge. Most existing approaches for producing counterfactuals, manual or automated, rely on small perturbations via minimal edits, resulting in simplistic changes. We introduce NeuroCounterfactuals, designed as loose counterfactuals, allowing for larger edits which result in naturalistic generations containing linguistic diversity, while still bearing similarity to the original document. Our novel generative approach bridges the benefits of constrained decoding, with those of language model adaptation for sentiment steering. Training data augmentation with our generations results in both in-domain and out-of-domain improvements for sentiment classification, outperforming even manually curated counterfactuals, under select settings. We further present detailed analyses to show the advantages of NeuroCounterfactuals over approaches involving simple, minimal edits.}
+}
+
+
+@inproceedings{liu2022wanli,
     title={WaNLI: Worker and AI Collaboration for Natural Language Inference Dataset Creation},
     author={Alisa Liu and Swabha Swayamdipta and Noah A. Smith and Yejin Choi},
     year={2022},
-    abbr={arXiv},
+    abbr={EMNLP},
+    booktitle={Findings of EMNLP},
     url={https://arxiv.org/abs/2201.05955},
     code={https://github.com/alisawuffles/wanli},
     abstract={A recurring challenge of crowdsourcing NLP datasets at scale is that human writers often rely on repetitive patterns when crafting examples, leading to a lack of linguistic diversity. We introduce a novel paradigm for dataset creation based on human and machine collaboration, which brings together the generative strength of language models and the evaluative strength of humans. Starting with an existing dataset, MultiNLI, our approach uses dataset cartography to automatically identify examples that demonstrate challenging reasoning patterns, and instructs GPT-3 to compose new examples with similar patterns. Machine generated examples are then automatically filtered, and finally revised and labeled by human crowdworkers to ensure quality. The resulting dataset, WANLI, consists of 108,357 natural language inference (NLI) examples that present unique empirical strengths over existing NLI datasets. Remarkably, training a model on WANLI instead of MNLI (which is 4 times larger) improves performance on seven out-of-domain test sets we consider, including by 11% on HANS and 9% on Adversarial NLI. Moreover, combining MNLI with WANLI is more effective than combining with other augmentation sets that have been introduced. Our results demonstrate the potential of natural language generation techniques to curate NLP datasets of enhanced quality and diversity.},
