@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /prospective/
-title: contact
+title: prospective
 description: FAQ for prospective students
 nav: true
-nav_order: 7
+nav_order: 5
 ---
 
 

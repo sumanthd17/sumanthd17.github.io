@@ -6,7 +6,7 @@ description: <a href="https://wise.usc.edu/programs/grants-and-awards/faculty/wi
 
 profile:
   align: right
-  image: swabha_hawaii.jpg
+  image: swabha_usc.jpg
   address: SAL 238,
           941 Bloom Walk,
           LA, CA 90089.
@@ -23,8 +23,9 @@ I am primarily interested in the [estimation](https://arxiv.org/abs/2110.08420) 
 <!-- via the [discovery](https://arxiv.org/abs/2103.01378) of [undesirable](https://arxiv.org/abs/2102.00086) [biases](https://arxiv.org/abs/1803.02324), including [social biases](https://arxiv.org/abs/2111.07997). The ultimate goal is advancing generalization not only via [bias reduction](https://arxiv.org/abs/2002.04108), but also via careful data curation, and [evaluation](https://arxiv.org/abs/2102.01454). -->
 
 
+Previously, I was a postdoctoral investigator at the [Allen Institute for AI](https://allenai.org/), where I worked with [Yejin Choi](https://homes.cs.washington.edu/~yejin/).
 I obtained my [PhD](/assets/pdf/swabha_thesis.pdf) from 🌉 [Carnegie Mellon University](https://www.lti.cs.cmu.edu/people/18088/swabha-swayamdipta), where I was advised by [Noah Smith](https://nasmith.github.io/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
-I was a visiting student at 🌲 [UW](https://www.cs.washington.edu/) during most of my PhD, followed by a postdoc at [AI2](https://allenai.org/), working with [Yejin Choi](https://homes.cs.washington.edu/~yejin/).
+I was a visiting student at 🌲 [UW](https://www.cs.washington.edu/) during most of my PhD.
 I hold a Masters degree from 🗽 [Columbia University](https://www.cs.columbia.edu/), and a Bachelors Degree from 🥥 [NIT Calicut](https://minerva.nitc.ac.in/).
 
 <!-- Prior to my PhD, I obtained a Masters degree from Columbia University, working with Owen Rambow and Michael Collins.
