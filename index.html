@@ -200,6 +200,13 @@
 
           <div class="table-responsive" style="height: 300px; overflow-y: scroll;">
             <table class="table table-sm table-borderless">
+              
+              <tr>
+                <th scope="row abbr"> <abbr class="badge"><span style="color:#000000">August, 2024</span></abbr></th>
+                <td>
+                  Delighted to share that our work <a href="https://arxiv.org/abs/2403.06350">IndicLLMSuite</a> has received the Outstanding Paper Award at ACL 2024!
+                </td>
+              </tr>
 
               <tr>
                 <th scope="row abbr"> <abbr class="badge"><span style="color:#000000">August, 2024</span></abbr></th>
@@ -533,6 +540,54 @@
 
                 <li>
                   <div class="row">
+    
+                    <div class="col-sm-2 abbr">
+                      <abbr class="badge">🏆 Outstanding Paper</abbr>
+                      <abbr class="badge">ACL'23</abbr>
+                    </div>
+    
+                    <div id="ai4bharat2023indictrans2" class="col-sm-8">
+                      <div class="title"><b>IndicLLMSuite: A Blueprint for Creating Pre-training and Fine-Tuning Datasets
+                          for Indian Languages</b></div>
+                      <div class="author">
+                        <font size="-1">
+                          Mohammed Safi Ur Rahman Khan, Priyam Mehta, Ananth Sankar, Umashankar Kumaravelan, <span
+                            style="color:cadetblue">Sumanth
+                            Doddapaneni</span>, Suriyaprasaad G, Varun Balan G, Sparsh Jain, Anoop Kunchukuttan, Pratyush
+                          Kumar, Raj Dabre, Mitesh M. Khapra
+                        </font>
+                      </div>
+                      <div class="links abbr">
+                        <a class="abstract badge" role="button"><span style="color:cadetblue">Abstract</span></a> <a
+                          href="https://arxiv.org/abs/2403.06350" target="_blank"><i class="fas fa-file"></i></a> <a
+                          href="https://github.com/AI4Bharat/IndicLLMSuite" target="_blank"><i class="fab fa-github"></i></a>
+                      </div>
+    
+                      <div class="abstract hidden">
+                        <p>Despite the considerable advancements in English LLMs, the progress in building comparable models
+                          for other languages has been hindered due to the scarcity of tailored resources. Our work aims to
+                          bridge this divide by introducing an expansive suite of resources specifically designed for the
+                          development of Indic LLMs, covering 22 languages, containing a total of 251B tokens and 74.8M
+                          instruction-response pairs. Recognizing the importance of both data quality and quantity, our
+                          approach combines highly curated manually verified data, unverified yet valuable data, and
+                          synthetic data. We build a clean, open-source pipeline for curating pre-training data from diverse
+                          sources, including websites, PDFs, and videos, incorporating best practices for crawling,
+                          cleaning, flagging, and deduplication. For instruction-fine tuning, we amalgamate existing Indic
+                          datasets, translate/transliterate English datasets into Indian languages, and utilize LLaMa2 and
+                          Mixtral models to create conversations grounded in articles from Indian Wikipedia and Wikihow.
+                          Additionally, we address toxicity alignment by generating toxic prompts for multiple scenarios and
+                          then generate non-toxic responses by feeding these toxic prompts to an aligned LLaMa2 model. We
+                          hope that the datasets, tools, and resources released as a part of this work will not only propel
+                          the research and development of Indic LLMs but also establish an open-source blueprint for
+                          extending such efforts to other languages. The data and other artifacts created as part of this
+                          work are released with permissive licenses.
+                        </p>
+                      </div>
+                    </div>
+                </li>
+
+                <li>
+                  <div class="row">
 
                     <div class="col-sm-2 abbr">
                       <abbr class="badge">TMLR</abbr>
@@ -582,91 +637,11 @@
                     </div>
                 </li>
 
-
                 <li>
                   <div class="row">
 
                     <div class="col-sm-2 abbr">
-                      <abbr class="badge">ACL 2023</abbr>
-                    </div>
-
-                    <div id="aralikatte2023varta" class="col-sm-8">
-                      <div class="title"><b>Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages</b>
-                      </div>
-                      <div class="author">
-                        <font size="-1">
-                          Rahul Aralikatte, Ziling Cheng, <span style="color:cadetblue">Sumanth Doddapaneni</span>,
-                          Jackie Chi Kit Cheung
-                        </font>
-                      </div>
-                      <div class="links abbr">
-                        <a class="abstract badge" role="button"><span style="color:cadetblue">Abstract</span></a> <a
-                          href="https://arxiv.org/abs/2305.05858" target="_blank"><i class="fas fa-file"></i></a> <a
-                          href="https://github.com/rahular/varta" target="_blank"><i class="fab fa-github"></i></a>
-                      </div>
-
-                      <div class="abstract hidden">
-                        <p>We present Vārta, a large-scale multilingual dataset for headline generation in Indic
-                          languages. This dataset includes 41.8 million news articles in 14 different Indic languages
-                          (and English), which come from a variety of high-quality sources. To the best of our
-                          knowledge, this is the largest collection of curated articles for Indic languages currently
-                          available. We use the data collected in a series of experiments to answer important questions
-                          related to Indic NLP and multilinguality research in general. We show that the dataset is
-                          challenging even for state-of-the-art abstractive models and that they perform only slightly
-                          better than extractive baselines. Owing to its size, we also show that the dataset can be used
-                          to pretrain strong language models that outperform competitive baselines in both NLU and NLG
-                          benchmarks.</p>
-                      </div>
-                    </div>
-                </li>
-
-                <li>
-                  <div class="row">
-
-                    <div class="col-sm-2 abbr">
-                      <abbr class="badge">ACL 2023</abbr>
-                    </div>
-                    <div id="mahaske2022naamapadam" class="col-sm-8">
-                      <div class="title"><b>Naamapadam: A Large-Scale Named Entity Annotated Data for Indic
-                          Languages</b></div>
-                      <div class="author">
-                        <font size="-1">
-                          Arnav Mhaske, Harshit Kedia, <span style="color:cadetblue">Sumanth Doddapaneni</span>, Mitesh
-                          M. Khapra, Pratyush Kumar, Rudra Murthy V, Anoop Kunchukuttan
-                        </font>
-                      </div>
-                      <div class="links abbr">
-                        <a class="abstract badge" role="button"><span style="color:cadetblue">Abstract</span></a> <a
-                          href="https://arxiv.org/abs/2212.10168" target="_blank"><i class="fas fa-file"></i></a>
-                      </div>
-
-                      <div class="abstract hidden">
-                        <p>We present, Naamapadam, the largest publicly available Named Entity Recognition (NER) dataset
-                          for the 11 major Indian languages from two language families. In each language, it contains
-                          more than 400k sentences annotated with a total of at least 100k entities from three standard
-                          entity categories (Person, Location and Organization) for 9 out of the 11 languages. The
-                          training dataset has been automatically created from the Samanantar parallel corpus by
-                          projecting automatically tagged entities from an English sentence to the corresponding Indian
-                          language sentence. We also create manually annotated testsets for 8 languages containing
-                          approximately 1000 sentences per language. We demonstrate the utility of the obtained dataset
-                          on existing testsets and the Naamapadam-test data for 8 Indic languages. We also release
-                          IndicNER, a multilingual mBERT model fine-tuned on the Naamapadam training set. IndicNER
-                          achieves the best F1 on the Naamapadam-test set compared to an mBERT model fine-tuned on
-                          existing datasets. IndicNER achieves an F1 score of more than 80 for 7 out of 11 Indic
-                          languages. The dataset and models are available under open-source licenses at
-                          https://ai4bharat.iitm.ac.in/naamapadam.</p>
-                      </div>
-
-                    </div>
-                  </div>
-                </li>
-
-
-                <li>
-                  <div class="row">
-
-                    <div class="col-sm-2 abbr">
-                      <abbr class="badge">ACL 2023</abbr>
+                      <abbr class="badge">ACL'23</abbr>
                     </div>
 
                     <div id="doddapanei2022indicxtreme" class="col-sm-8">
@@ -760,7 +735,7 @@
                   <div class="row">
 
                     <div class="col-sm-2 abbr">
-                      <abbr class="badge">AAAI</abbr>
+                      <abbr class="badge">AAAI'22</abbr>
                     </div>
 
                     <div id="javed2022towards" class="col-sm-8">
